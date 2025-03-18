@@ -32,6 +32,11 @@ node wuWxapkg.js  .wxapkg
 
 其中`{User}` 为当前用户的用户名，类似于 `2bc**************b65`。
 
+## Mac查看小程序目录
+**/Users/{你的用户名}/Library/Containers/com.tencent.xinWeChat/Data/.wxapplet/packages/**
+
+
+
 
 
 
