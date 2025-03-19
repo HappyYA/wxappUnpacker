@@ -1,5 +1,6 @@
 
 # 安装
+使用node 18版本
 ```
 npm install
 ```
