@@ -35,6 +35,8 @@ node wuWxapkg.js  .wxapkg
 
 ## Mac查看小程序目录
 **/Users/{你的用户名}/Library/Containers/com.tencent.xinWeChat/Data/.wxapplet/packages/**
+## MAC微信4.0小程序目录
+**/Users/{你的用户名}/Library/Containers/com.tencent.xinWeChat/Data/Documents/app_data/radium/Applet/packages/**
 
 
 
